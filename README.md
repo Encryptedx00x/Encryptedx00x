@@ -7,7 +7,7 @@
 - HTML5 (Domino o essencial)
 - CSS (Domino o essencial)
 - Javascript (Iniciante)
-- PHP (Aprendendo)
+- Laravel/PHP (Aprendendo)
 - MySQL (Aprendendo em conjunto ao PHP)
 
 • Tenho interesse de aprender em breve:
