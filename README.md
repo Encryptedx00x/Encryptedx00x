@@ -1,6 +1,6 @@
 ### Olá pessoal! 👋
 
-**Encryptedx00x/Encryptedx00x** ✨ Meu nome é _Dyogo Henrique de Oliveira_ e sou um estudante de programação, já trabalhei em alguns projetos e desenvolvi algumas aplicações com o básico que sei mas pretendo me aperfeiçoar nas demais linguagens em que opero para a busca do conhecimento e profissionalismo ideal.
+**>** ✨ Meu nome é _Dyogo Henrique de Oliveira_ e sou um estudante de programação, já trabalhei em alguns projetos e desenvolvi algumas aplicações com o básico que sei mas pretendo me aperfeiçoar nas demais linguagens em que opero para a busca do conhecimento e profissionalismo ideal.
 
 • Meus focos:
 
