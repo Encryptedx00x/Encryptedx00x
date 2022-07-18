@@ -12,10 +12,11 @@
 
 • Tenho interesse de aprender em breve:
 
+- Typescript
 - React Native
 - NodeJS
-- Typescript
 - ReactJS
+- VueJS
 
 Gosto de trabalhar muito com o Bootstrap ou outros frameworks que nos auxiliam conforme nossas necessidades, preciso aperfeiçoar meu conhecimento com relação a GIT, API's e Clouds também.
 Vou ter muito trabalho, mas logo logo vou conseguir.
