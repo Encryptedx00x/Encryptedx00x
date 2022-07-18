@@ -21,3 +21,5 @@
 
 Gosto de trabalhar muito com o Bootstrap ou outros frameworks que nos auxiliam conforme nossas necessidades, preciso aperfeiçoar meu conhecimento com relação a GIT, API's e Clouds também.
 Vou ter muito trabalho, mas logo logo vou conseguir.
+
+![html5-logo-10](https://user-images.githubusercontent.com/40047426/179571438-dde421e9-4971-41c6-8f7e-42c0835455c1.png)
