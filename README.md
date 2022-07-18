@@ -8,10 +8,11 @@
 - CSS (Domino o essencial)
 - Javascript (Iniciante)
 - Laravel/PHP (Aprendendo)
-- MySQL (Aprendendo em conjunto ao PHP)
+- MySQL (Aprendendo)
 
 • Tenho interesse de aprender em breve:
 
+- PostgreSQL
 - Typescript
 - React Native
 - NodeJS
