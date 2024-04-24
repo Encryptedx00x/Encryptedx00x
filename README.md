@@ -12,5 +12,5 @@
 
 • Cursando atualmente:
 
-- O Curso de programação de Harvard CS50.
+- O Curso de programação de Harvard CS50 e o Bootcamp Santander 2024.
 
