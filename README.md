@@ -10,7 +10,7 @@
 - PHP (Aprendendo)
 - MySQL (Aprendendo)
 
-• Cursando atualmente:
+• Atualmente:
 
-- O Curso de programação de Harvard CS50 e o Bootcamp Santander 2024.
+- Cursando o CS50, de Harvard, e o Bootcamp Santander 2024.
 
