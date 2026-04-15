@@ -119,13 +119,13 @@ Trabalho com Python, JavaScript, n8n, RPA e integrações via APIs REST, transfo
 ```
 [+] Hackers do Bem — Nivelamento    ████████████  Certificado ✅  80h
 [+] Hackers do Bem — Básico         ████████████  Certificado ✅  64h
-[+] Hackers do Bem — Fundamental    ██████████░░  Em curso    🔄  96h
+[+] Hackers do Bem — Fundamental    ████████████  Certificado ✅  96h
 [+] Defesa de Redes (IME ~27h)      ████████████  Certificado ✅  27h
 [+] Pentesting & CTF                ████████░░░░  +66 explorações registradas ✅
 [+] Análise de Tráfego de Rede      ██████░░░░░░  Em progresso 🔄
 ```
 
-> 🛡️ Participante do programa **[Hackers do Bem](https://hackersdobem.org.br/)** (SENAI · RNP · Softex · MCTI) — trilha de Formação em Cibersegurança com os níveis de Nivelamento (80h) e Básico (64h) concluídos, e Fundamental (96h) em andamento.
+> 🛡️ Participante do programa **[Hackers do Bem](https://hackersdobem.org.br/)** (SENAI · RNP · Softex · MCTI) — trilha de Formação em Cibersegurança com os níveis de Nivelamento (80h), Básico (64h) e Fundamental (96h) concluídos.
 
 ---
 
@@ -135,8 +135,8 @@ Trabalho com Python, JavaScript, n8n, RPA e integrações via APIs REST, transfo
 |---|---|---|---|
 | Hackers do Bem — Nivelamento | SENAI / RNP / Softex | 80h | Jan/2026 ✅ |
 | Hackers do Bem — Básico | SENAI / RNP / Softex | 64h | Jan/2026 ✅ |
-| Hackers do Bem — Fundamental | SENAI / RNP / Softex | 96h | Em andamento 🔄 |
-| Defesa de Redes | Instituto Militar de Engenharia (IME) | ~27h | 2025 ✅ |
+| Hackers do Bem — Fundamental | SENAI / RNP / Softex | 96h | Abr/2026 ✅ |
+| Defesa de Redes | Instituto Militar de Engenharia (IME) | 27h | 2025 ✅ |
 | CS50 — Entendendo a Tecnologia | Harvard University | — | 2024 ✅ |
 | Proficiência em Inglês C1 (Advanced) | EF Set | — | 2024 ✅ |
 | Bootcamp Java — Santander & DIO | DIO | — | 2024 ✅ |
