@@ -20,7 +20,7 @@ $ cat about_me.txt
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  Name    : Dyogo Henrique de Oliveira Ortega                 ║
-║  Age     : 20                                                ║
+║  Age     : 21                                                ║
 ║  Location: Camboriu, Santa Catarina, BR                      ║
 ║  Focus   : Automation - Web Dev - Cybersecurity              ║
 ║  Status  : Dev @ Allog - Freelancer @ Ascension [online]     ║
@@ -122,39 +122,40 @@ Trabalho com Python, JavaScript, n8n, RPA e integrações via APIs REST, transfo
 [+] Hackers do Bem — Fundamental    ████████████  Certificado ✅  96h
 [+] Defesa de Redes (IME ~27h)      ████████████  Certificado ✅  27h
 [+] Pentesting & CTF                ████████░░░░  +66 explorações registradas ✅
-[+] Análise de Tráfego de Rede      ██████░░░░░░  Em progresso 🔄
 ```
 
-> 🛡️ Participante do programa **[Hackers do Bem](https://hackersdobem.org.br/)** (SENAI · RNP · Softex · MCTI) — trilha de Formação em Cibersegurança com os níveis de Nivelamento (80h), Básico (64h) e Fundamental (96h) concluídos.
+> 🛡️ Participant in the **[Hackers do Bem](https://hackersdobem.org.br/)** program (SENAI · RNP · Softex · MCTI) — Cybersecurity Training track with the Preparatory Level (80h), Basic Level (64h), and Fundamental Level (96h) completed.
 
 ---
 
 ## `> ls ./certifications`
 
-| 🏆 Certificação | 🏫 Instituição | ⏱️ Carga | 📅 Conclusão |
+| 🏆 Certification / Course | 🏫 Issuer | ⏱️ Workload | 📅 Completion |
 |---|---|---|---|
-| Hackers do Bem — Nivelamento | SENAI / RNP / Softex | 80h | Jan/2026 ✅ |
-| Hackers do Bem — Básico | SENAI / RNP / Softex | 64h | Jan/2026 ✅ |
-| Hackers do Bem — Fundamental | SENAI / RNP / Softex | 96h | Abr/2026 ✅ |
-| Defesa de Redes | Instituto Militar de Engenharia (IME) | 27h | 2025 ✅ |
-| CS50 — Entendendo a Tecnologia | Harvard University | — | 2024 ✅ |
-| Proficiência em Inglês C1 (Advanced) | EF Set | — | 2024 ✅ |
-| Bootcamp Java — Santander & DIO | DIO | — | 2024 ✅ |
-| Dominando Java | DIO | ~14h | 2024 ✅ |
-| Programação Orientada a Objetos em Java | DIO | ~20h | 2024 ✅ |
-| Testes e Gerenciamento de Dependências em Java | DIO | ~8h | 2024 ✅ |
-| Soft Skills na Era Ágil | DIO | ~8h | 2024 ✅ |
-| Princípios de Desenvolvimento Colaborativo | DIO | ~8h | 2024 ✅ |
-| Trilha Análise de Dados — Python & Dashboards | SCTEC | 16h | 2026 ✅ |
-| Trilha Dev de Software — HTML/CSS/JS | SCTEC | 16h | 2026 ✅ |
-| Mini-curso de Análise de Dados | SCTEC | 2h | 2026 ✅ |
-| Mini-curso de Desenvolvimento de Software | SCTEC | 2h | 2026 ✅ |
-| Mini-curso de Inteligência Artificial | SCTEC | 2h | 2026 ✅ |
-| Tecnologias da Informação e Comunicação | SENAI São Paulo | ~14h | 2022 ✅ |
-| Segurança no Trabalho | SENAI São Paulo | ~14h | 2022 ✅ |
-| Preparação para o Mundo do Trabalho | SENAI São Paulo | ~14h | 2022 ✅ |
-| Finanças Pessoais | SENAI São Paulo | ~14h | 2022 ✅ |
-| Propriedade Intelectual | SENAI São Paulo | ~14h | 2022 ✅ |
+| Hackers do Bem Program — Preparatory Level: Cybersecurity Training | Hackers do Bem / SENAI / RNP / Softex | 80h | Jan/2026 ✅ |
+| Hackers do Bem Program — Basic Level: Cybersecurity Training | Hackers do Bem / SENAI / RNP / Softex | 64h | Jan/2026 ✅ |
+| Hackers do Bem Program — Fundamental Level: Cybersecurity Training | Hackers do Bem / SENAI / RNP / Softex | 96h | Apr/2026 ✅ |
+| Network Defense | Military Institute of Engineering (IME) | 27h | 2025 ✅ |
+| CS50 — Understanding Technology | Harvard University | — | 2024 ✅ |
+| English Proficiency C1 (Advanced) | EF SET | — | 2024 ✅ |
+| Java Bootcamp — Santander & DIO | DIO | — | 2024 ✅ |
+| Mastering Java | DIO | ~14h | 2024 ✅ |
+| Object-Oriented Programming in Java | DIO | ~20h | 2024 ✅ |
+| Testing and Dependency Management in Java | DIO | ~8h | 2024 ✅ |
+| Soft Skills in the Agile Era | DIO | ~8h | 2024 ✅ |
+| Principles of Collaborative Development | DIO | ~8h | 2024 ✅ |
+| AI in Practice: Fundamentals of Artificial Intelligence | SENAI/SC — LAB 365 Florianópolis | 8h | Mar/2026 ✅ |
+| AI in Practice: AI Tools and Their Practical Use | SENAI/SC — LAB 365 Florianópolis | 15h | Mar/2026 ✅ |
+| Fast Track: Artificial Intelligence | SCTEC | 16h | Mar/2026 ✅ |
+| Fast Track: Data Analysis — Python & Dashboards | SCTEC | 16h | Mar/2026 ✅ |
+| Fast Track: Software Development — HTML/CSS/JavaScript | SCTEC | 16h | Feb/2026 ✅ |
+| Artificial Intelligence Talks | SCTEC | 2h | Feb/2026 ✅ |
+| Software Development Talks | SCTEC | 2h | Feb/2026 ✅ |
+| Information and Communication Technologies | SENAI São Paulo | ~14h | 2022 ✅ |
+| Workplace Safety | SENAI São Paulo | ~14h | 2022 ✅ |
+| Preparation for the World of Work | SENAI São Paulo | ~14h | 2022 ✅ |
+| Personal Finance | SENAI São Paulo | ~14h | 2022 ✅ |
+| Intellectual Property | SENAI São Paulo | ~14h | 2022 ✅ |
 
 ---
 
