@@ -101,7 +101,7 @@ Boa parte do código está em repositórios privados ou de clientes - mas dá pr
 | **[hidrosaudecamboriu.com.br](https://hidrosaudecamboriu.com.br/)** | Site + sistema de gestão para clínica: pacientes, agendamento e rotinas administrativas. | HTML · CSS · JavaScript · PHP · MySQL/MariaDB |
 | **[dyogo.site](https://dyogo.site/)** | Lista de presentes de aniversário interativa, com pagamentos via Pix. | PHP · HTML · CSS · JavaScript |
 | **[setimadmsc.com.br](https://setimadmsc.com.br/)** | Site para organização regional de liderança juvenil. Trabalho voluntário. | PHP · HTML · CSS · JavaScript |
-| **[lunasgrafica.com](https://lunasgrafica.com/)** | Site para gráfica: catálogo de serviços e solicitação de orçamento. | ⚠️ preencher |
+| **[lunasgrafica.com](https://lunasgrafica.com/)** | Site para gráfica: catálogo de serviços, animações de scroll e solicitação de orçamento. | HTML · Tailwind CSS · JavaScript · GSAP · Swiper |
 | **[nidy.com.br](https://nidy.com.br/)** | Site institucional para empresa de segurança eletrônica e infraestrutura de TI. | PHP · HTML · CSS · JavaScript |
 
 🚧 **Orcivo** *(em desenvolvimento, código ainda privado)* — ferramenta de gestão para técnicos instaladores: agendamento, tabela de serviços, emissão de notas fiscais, inventário de produtos e assinaturas pela própria plataforma. TypeScript.
