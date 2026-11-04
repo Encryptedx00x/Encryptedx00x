@@ -104,7 +104,31 @@ Boa parte do código está em repositórios privados ou de clientes - mas dá pr
 | **[lunasgrafica.com](https://lunasgrafica.com/)** | Site para gráfica: catálogo de serviços, animações de scroll e solicitação de orçamento. | HTML · Tailwind CSS · JavaScript · GSAP · Swiper |
 | **[nidy.com.br](https://nidy.com.br/)** | Site institucional para empresa de segurança eletrônica e infraestrutura de TI. | PHP · HTML · CSS · JavaScript |
 
-🚧 **Orcivo** *(em desenvolvimento, código ainda privado)* — ferramenta de gestão para técnicos instaladores: agendamento, tabela de serviços, emissão de notas fiscais, inventário de produtos e assinaturas pela própria plataforma. TypeScript.
+### 🔓 Código aberto
+
+Repositórios públicos — pode abrir, ler e rodar:
+
+| Repo | O que é | Stack |
+|---|---|---|
+| **[expert-ai-manager](https://github.com/Encryptedx00x/expert-ai-manager)** | HUD local no Windows para orquestrar desenvolvimento assistido por IA: templates de planejamento e checkpoints supervisionados. | Python · Windows |
+| **[web-vuln-scanner](https://github.com/Encryptedx00x/web-vuln-scanner)** | PoC de scanner de vulnerabilidades web: verificadores modulares e mapeamento OWASP Top 10. | Python · FastAPI (async) |
+| **[google-maps-leads](https://github.com/Encryptedx00x/google-maps-leads)** | Prospecção automática de estabelecimentos no Google Maps, com exportação para Excel. | Python · Selenium |
+| **[Reddit-Lead-Scraper](https://github.com/Encryptedx00x/Reddit-Lead-Scraper)** | Prospecção de leads em comunidades do Reddit por palavra-chave. | Python |
+| **[gmail-cleaner](https://github.com/Encryptedx00x/gmail-cleaner)** | Faxina assistida do Gmail: classifica por IA, encena ações e executa só com confirmação. | Python · Streamlit · Gmail API |
+| **[polymarket-engine](https://github.com/Encryptedx00x/polymarket-engine)** | Coletor e analisador de operações do Polymarket: posições, trades, PnL e relatórios *(descontinuado)*. | Python |
+| **[cardapio-digital](https://github.com/Encryptedx00x/cardapio-digital)** | Protótipo de cardápio digital: cardápio público, painel administrativo e API. | PHP · MySQL |
+| **[simulador-toxico](https://toxico.online/)** | Simulador de chat tóxico — chefe FDP, relacionamento e família (PT/EN). · [repo](https://github.com/Encryptedx00x/simulador-toxico) | JavaScript |
+| **[setima-demolay](https://github.com/Encryptedx00x/setima-demolay)** | Versão portfólio (sem dados reais) do site institucional da Sétima Região DeMolay/SC. | PHP · MySQL |
+
+### 🔒 Privados & de clientes
+
+Código fechado por serem produtos em andamento ou de clientes — cito pela stack e pela entrega:
+
+- 🚧 **Orcivo** — SaaS de gestão para técnicos instaladores: agenda, catálogo de serviços, orçamentos, emissão fiscal, inventário e assinaturas na plataforma. *(em desenvolvimento)* · **TypeScript · NestJS · Next.js · React Native/Expo · Prisma · PostgreSQL · Docker**
+- 🍔 **Olivers** — painel de gestão e estoque para hamburgueria (cliente). *(aplicação web · Node · Docker)*
+- 🧱 **Paidland** — site institucional para cliente (Alex). *(HTML · CSS · JavaScript)*
+- 🕹️ **DeMolay Game** — jogo educativo em Unity para formação da Ordem DeMolay. *(C# · Unity)*
+- 🧩 **REA Lab** — case autorizado de engenharia reversa e análise de binários, documentado como pesquisa de segurança.
 
 Também publico workflows no **[n8n Creator Hub](https://n8n.io/creators/holvvx)** como Verified Creator.
 
