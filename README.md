@@ -92,43 +92,48 @@ Cursando **Engenharia de Software** na UNIASSELVI e **Sistemas para Internet** n
 
 ## `> ls ./projects`
 
-Boa parte do código está em repositórios privados ou de clientes - mas dá pra clicar e ver funcionando:
+Cada projeto aparece uma vez. Onde é aberto, tem link do repositório; onde está no ar, dá pra clicar e usar.
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| **[ostentei.com](https://ostentei.com/)** | Pay-to-rank link board, construído e publicado sozinho. Processa pagamentos reais. | PHP 8.3 · MariaDB · Caddy · Mercado Pago/Pix |
-| **[novixfin.cash](https://novixfin.cash/)** | Finanças pessoais: contas, cartões, recorrências, orçamentos e projeção de fluxo de caixa. | PHP · MySQL · JavaScript |
-| **[hidrosaudecamboriu.com.br](https://hidrosaudecamboriu.com.br/)** | Site + sistema de gestão para clínica: pacientes, agendamento e rotinas administrativas. | HTML · CSS · JavaScript · PHP · MySQL/MariaDB |
-| **[dyogo.site](https://dyogo.site/)** | Lista de presentes de aniversário interativa, com pagamentos via Pix. | PHP · HTML · CSS · JavaScript |
-| **[setimadmsc.com.br](https://setimadmsc.com.br/)** | Site para organização regional de liderança juvenil. Trabalho voluntário. | PHP · HTML · CSS · JavaScript |
-| **[lunasgrafica.com](https://lunasgrafica.com/)** | Site para gráfica: catálogo de serviços, animações de scroll e solicitação de orçamento. | HTML · Tailwind CSS · JavaScript · GSAP · Swiper |
-| **[nidy.com.br](https://nidy.com.br/)** | Site institucional para empresa de segurança eletrônica e infraestrutura de TI. | PHP · HTML · CSS · JavaScript |
+### 🌐 No ar
+
+Produtos rodando em produção:
+
+| Projeto | O que é | Stack | Código |
+|---|---|---|---|
+| **[ostentei.com](https://ostentei.com/)** | Placar de links pagos (pay-to-rank), construído e publicado sozinho. Processa pagamentos reais. | PHP 8.3 · MariaDB · Caddy · Mercado Pago/Pix | 🔒 privado |
+| **[novixfin.cash](https://novixfin.cash/)** | Finanças pessoais: contas, cartões, recorrências, orçamentos e projeção de fluxo de caixa. | PHP · MySQL · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/novixfin) |
+| **[dyogo.site](https://dyogo.site/)** | Lista de presentes de aniversário interativa, com pagamento por Pix na própria página. | PHP · MySQL · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/aniversario-lista-presentes) |
+| **[toxico.online](https://toxico.online/)** | Simulador de conversas: um treino bem-humorado para reconhecer e lidar com toxicidade, abusos e manipulação (PT/EN). | JavaScript | [🔓 repo](https://github.com/Encryptedx00x/simulador-toxico) |
+| **[hidrosaudecamboriu.com.br](https://hidrosaudecamboriu.com.br/)** | Site + sistema de gestão para clínica: pacientes, agendamento e rotinas administrativas. | HTML · CSS · JS · PHP · MySQL/MariaDB | 🔒 privado |
+| **[setimadmsc.com.br](https://setimadmsc.com.br/)** | Site para organização regional de liderança juvenil (trabalho voluntário). | PHP · HTML · CSS · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/setima-demolay) |
+| **[lunasgrafica.com](https://lunasgrafica.com/)** | Site para gráfica: catálogo de serviços, animações de scroll e orçamento. | HTML · Tailwind · JS · GSAP · Swiper | 🔒 cliente |
+| **[nidy.com.br](https://nidy.com.br/)** | Site institucional para empresa de segurança eletrônica e TI. | PHP · HTML · CSS · JavaScript | 🔒 privado |
 
 ### 🔓 Código aberto
 
-Repositórios públicos — pode abrir, ler e rodar:
+Ferramentas, bots e experimentos - abre, lê e roda:
 
 | Repo | O que é | Stack |
 |---|---|---|
-| **[expert-ai-manager](https://github.com/Encryptedx00x/expert-ai-manager)** | HUD local no Windows para orquestrar desenvolvimento assistido por IA: templates de planejamento e checkpoints supervisionados. | Python · Windows |
+| **[rea-lab](https://github.com/Encryptedx00x/rea-lab)** | Estudo de caso de engenharia reversa: recuperação parcial de código e reconstrução em C++ de um software Windows protegido (write-up, sem código de exploit). | Ghidra · C++20 · Python · Win32 |
+| **[expert-ai-manager](https://github.com/Encryptedx00x/expert-ai-manager)** | HUD local no Windows para orquestrar desenvolvimento assistido por IA: planejamento e checkpoints supervisionados. ¹ | Python · Windows |
 | **[web-vuln-scanner](https://github.com/Encryptedx00x/web-vuln-scanner)** | PoC de scanner de vulnerabilidades web: verificadores modulares e mapeamento OWASP Top 10. | Python · FastAPI (async) |
 | **[google-maps-leads](https://github.com/Encryptedx00x/google-maps-leads)** | Prospecção automática de estabelecimentos no Google Maps, com exportação para Excel. | Python · Selenium |
 | **[Reddit-Lead-Scraper](https://github.com/Encryptedx00x/Reddit-Lead-Scraper)** | Prospecção de leads em comunidades do Reddit por palavra-chave. | Python |
-| **[gmail-cleaner](https://github.com/Encryptedx00x/gmail-cleaner)** | Faxina assistida do Gmail: classifica por IA, encena ações e executa só com confirmação. | Python · Streamlit · Gmail API |
-| **[polymarket-engine](https://github.com/Encryptedx00x/polymarket-engine)** | Coletor e analisador de operações do Polymarket: posições, trades, PnL e relatórios *(descontinuado)*. | Python |
+| **[gmail-cleaner](https://github.com/Encryptedx00x/gmail-cleaner)** | Faxina assistida do Gmail: classifica por IA, encena ações e executa só com confirmação. ¹ | Python · Streamlit · Gmail API |
+| **[polymarket-engine](https://github.com/Encryptedx00x/polymarket-engine)** | Coletor e analisador de operações do Polymarket: posições, trades, PnL e relatórios. *(descontinuado após a proibição do Polymarket no Brasil)* | Python |
 | **[cardapio-digital](https://github.com/Encryptedx00x/cardapio-digital)** | Protótipo de cardápio digital: cardápio público, painel administrativo e API. | PHP · MySQL |
-| **[simulador-toxico](https://toxico.online/)** | Simulador de chat tóxico — chefe FDP, relacionamento e família (PT/EN). · [repo](https://github.com/Encryptedx00x/simulador-toxico) | JavaScript |
-| **[setima-demolay](https://github.com/Encryptedx00x/setima-demolay)** | Versão portfólio (sem dados reais) do site institucional da Sétima Região DeMolay/SC. | PHP · MySQL |
+
+¹ Projetos que dependem do ChatGPT (como o Expert AI Manager) deixaram de ser efetivos depois que a OpenAI passou a compartilhar os limites de uso entre o ChatGPT e o modo de trabalho/código - ficam aqui como registro da ideia e da engenharia.
 
 ### 🔒 Privados & de clientes
 
-Código fechado por serem produtos em andamento ou de clientes — cito pela stack e pela entrega:
+Código fechado por serem produtos em andamento ou de clientes - cito pela stack e pela entrega:
 
-- 🚧 **Orcivo** — SaaS de gestão para técnicos instaladores: agenda, catálogo de serviços, orçamentos, emissão fiscal, inventário e assinaturas na plataforma. *(em desenvolvimento)* · **TypeScript · NestJS · Next.js · React Native/Expo · Prisma · PostgreSQL · Docker**
-- 🍔 **Olivers** — painel de gestão e controle de estoque para hamburgueria (cliente). *(Next.js · React · TypeScript · Prisma · PostgreSQL · Tailwind · Docker)*
-- 🏞️ **Paidland** — simulador 3D de terrenos no navegador (cliente). *(React · Three.js / React Three Fiber · Vite)*
-- 🕹️ **DeMolay Game** — jogo educativo em Unity para formação da Ordem DeMolay. *(C# · Unity)*
-- 🧩 **REA Lab** — case autorizado de engenharia reversa e análise de binários, documentado como pesquisa de segurança.
+- 🚧 **Orcivo** - SaaS de gestão para técnicos instaladores: agenda, catálogo de serviços, orçamentos, emissão fiscal, inventário e assinaturas na plataforma. *(em desenvolvimento)* · **TypeScript · NestJS · Next.js · React Native/Expo · Prisma · PostgreSQL · Docker**
+- 🍔 **Olivers** - painel de gestão e controle de estoque para hamburgueria (cliente). *(Next.js · React · TypeScript · Prisma · PostgreSQL · Tailwind · Docker)*
+- 🕹️ **DeMolay Game** - jogo educativo em Unity criado para a Olimpíada Nacional da Ordem DeMolay, instituição fraternal juvenil filantrópica. *(C# · Unity)*
+- 🏞️ **Paidland** - simulador 3D de terrenos no navegador (cliente). *(React · Three.js / React Three Fiber · Vite)*
 
 Também publico workflows no **[n8n Creator Hub](https://n8n.io/creators/holvvx)** como Verified Creator.
 
