@@ -1,7 +1,7 @@
 <!-- Banner animado com typing SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dyogo+%F0%9F%91%8B;Software+Engineer+%7C+Automation+%26+AI+Integration;n8n+%C2%B7+EDI+%C2%B7+REST+APIs+%C2%B7+LLM+pipelines;Turning+manual+work+into+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Dyogo+%F0%9F%91%8B;Software+Engineer+%7C+Automation+%26+AI+Integration;n8n+%C2%B7+EDI+%C2%B7+REST+APIs+%C2%B7+LLM+pipelines;Turning+manual+work+into+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Encryptedx00x&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -92,14 +92,16 @@ Cursando **Engenharia de Software** na UNIASSELVI e **Sistemas para Internet** n
 
 ## `> ls ./projects`
 
-Cada projeto aparece uma vez. Onde é aberto, tem link do repositório; onde está no ar, dá pra clicar e usar.
+Cada projeto aparece uma vez. Onde está no ar, dá pra clicar e usar; onde é aberto, tem link do repositório.
 
-### 🌐 No ar
+### 🚀 Produtos & projetos
 
-Produtos rodando em produção:
+Produtos próprios, trabalhos de clientes e entregas - com link onde está no ar:
 
 | Projeto | O que é | Stack | Código |
 |---|---|---|---|
+| **Orcivo** | SaaS de gestão para técnicos instaladores: agenda, catálogo de serviços, orçamentos, emissão fiscal, inventário e assinaturas na plataforma. Desenvolvimento concluído, em evolução contínua. | TypeScript · NestJS · Next.js · React Native/Expo · Prisma · PostgreSQL · Docker | 🔒 meu produto |
+| **Olivers** | Painel de gestão e controle de estoque para hamburgueria, com baixa automática de insumos a cada venda (cliente). | Next.js · React · TypeScript · Prisma · PostgreSQL · Tailwind · Docker | 🔒 cliente |
 | **[ostentei.com](https://ostentei.com/)** | Placar de links pagos (pay-to-rank), construído e publicado sozinho. Processa pagamentos reais. | PHP 8.3 · MariaDB · Caddy · Mercado Pago/Pix | 🔒 privado |
 | **[novixfin.cash](https://novixfin.cash/)** | Finanças pessoais: contas, cartões, recorrências, orçamentos e projeção de fluxo de caixa. | PHP · MySQL · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/novixfin) |
 | **[dyogo.site](https://dyogo.site/)** | Lista de presentes de aniversário interativa, com pagamento por Pix na própria página. | PHP · MySQL · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/aniversario-lista-presentes) |
@@ -108,6 +110,8 @@ Produtos rodando em produção:
 | **[setimadmsc.com.br](https://setimadmsc.com.br/)** | Site para organização regional de liderança juvenil (trabalho voluntário). | PHP · HTML · CSS · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/setima-demolay) |
 | **[lunasgrafica.com](https://lunasgrafica.com/)** | Site para gráfica: catálogo de serviços, animações de scroll e orçamento. | HTML · Tailwind · JS · GSAP · Swiper | 🔒 cliente |
 | **[nidy.com.br](https://nidy.com.br/)** | Site institucional para empresa de segurança eletrônica e TI. | PHP · HTML · CSS · JavaScript | 🔒 privado |
+| **[paidland.com.br](https://paidland.com.br/)** | Simulador 3D de terrenos no navegador (cliente). | React · Three.js / React Three Fiber · Vite | 🔒 cliente |
+| **DeMolay Game** | Jogo educativo em Unity criado para a Olimpíada Nacional da Ordem DeMolay, instituição fraternal juvenil filantrópica. | C# · Unity | 🔒 privado |
 
 ### 🔓 Código aberto
 
@@ -120,20 +124,11 @@ Ferramentas, bots e experimentos - abre, lê e roda:
 | **[web-vuln-scanner](https://github.com/Encryptedx00x/web-vuln-scanner)** | PoC de scanner de vulnerabilidades web: verificadores modulares e mapeamento OWASP Top 10. | Python · FastAPI (async) |
 | **[google-maps-leads](https://github.com/Encryptedx00x/google-maps-leads)** | Prospecção automática de estabelecimentos no Google Maps, com exportação para Excel. | Python · Selenium |
 | **[Reddit-Lead-Scraper](https://github.com/Encryptedx00x/Reddit-Lead-Scraper)** | Prospecção de leads em comunidades do Reddit por palavra-chave. | Python |
-| **[gmail-cleaner](https://github.com/Encryptedx00x/gmail-cleaner)** | Faxina assistida do Gmail: classifica por IA, encena ações e executa só com confirmação. ¹ | Python · Streamlit · Gmail API |
+| **[gmail-cleaner](https://github.com/Encryptedx00x/gmail-cleaner)** | Faxina assistida da caixa de entrada: classifica por IA, encena as ações e executa só com confirmação. Funciona com diferentes provedores de IA. | Python · Streamlit · Gmail API |
 | **[polymarket-engine](https://github.com/Encryptedx00x/polymarket-engine)** | Coletor e analisador de operações do Polymarket: posições, trades, PnL e relatórios. *(descontinuado após a proibição do Polymarket no Brasil)* | Python |
 | **[cardapio-digital](https://github.com/Encryptedx00x/cardapio-digital)** | Protótipo de cardápio digital: cardápio público, painel administrativo e API. | PHP · MySQL |
 
-¹ Projetos que dependem do ChatGPT (como o Expert AI Manager) deixaram de ser efetivos depois que a OpenAI passou a compartilhar os limites de uso entre o ChatGPT e o modo de trabalho/código - ficam aqui como registro da ideia e da engenharia.
-
-### 🔒 Privados & de clientes
-
-Código fechado por serem produtos em andamento ou de clientes - cito pela stack e pela entrega:
-
-- 🚧 **Orcivo** - SaaS de gestão para técnicos instaladores: agenda, catálogo de serviços, orçamentos, emissão fiscal, inventário e assinaturas na plataforma. *(em desenvolvimento)* · **TypeScript · NestJS · Next.js · React Native/Expo · Prisma · PostgreSQL · Docker**
-- 🍔 **Olivers** - painel de gestão e controle de estoque para hamburgueria (cliente). *(Next.js · React · TypeScript · Prisma · PostgreSQL · Tailwind · Docker)*
-- 🕹️ **DeMolay Game** - jogo educativo em Unity criado para a Olimpíada Nacional da Ordem DeMolay, instituição fraternal juvenil filantrópica. *(C# · Unity)*
-- 🏞️ **Paidland** - simulador 3D de terrenos no navegador (cliente). *(React · Three.js / React Three Fiber · Vite)*
+¹ O Expert AI Manager depende do ChatGPT e deixou de ser efetivo depois que a OpenAI passou a compartilhar os limites de uso entre o ChatGPT e o modo de trabalho/código - fica aqui como registro da ideia e da engenharia.
 
 Também publico workflows no **[n8n Creator Hub](https://n8n.io/creators/holvvx)** como Verified Creator.
 
