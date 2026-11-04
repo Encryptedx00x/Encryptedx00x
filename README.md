@@ -125,8 +125,8 @@ Repositórios públicos — pode abrir, ler e rodar:
 Código fechado por serem produtos em andamento ou de clientes — cito pela stack e pela entrega:
 
 - 🚧 **Orcivo** — SaaS de gestão para técnicos instaladores: agenda, catálogo de serviços, orçamentos, emissão fiscal, inventário e assinaturas na plataforma. *(em desenvolvimento)* · **TypeScript · NestJS · Next.js · React Native/Expo · Prisma · PostgreSQL · Docker**
-- 🍔 **Olivers** — painel de gestão e estoque para hamburgueria (cliente). *(aplicação web · Node · Docker)*
-- 🧱 **Paidland** — site institucional para cliente (Alex). *(HTML · CSS · JavaScript)*
+- 🍔 **Olivers** — painel de gestão e controle de estoque para hamburgueria (cliente). *(Next.js · React · TypeScript · Prisma · PostgreSQL · Tailwind · Docker)*
+- 🏞️ **Paidland** — simulador 3D de terrenos no navegador (cliente). *(React · Three.js / React Three Fiber · Vite)*
 - 🕹️ **DeMolay Game** — jogo educativo em Unity para formação da Ordem DeMolay. *(C# · Unity)*
 - 🧩 **REA Lab** — case autorizado de engenharia reversa e análise de binários, documentado como pesquisa de segurança.
 
