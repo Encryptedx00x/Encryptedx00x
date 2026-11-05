@@ -106,12 +106,15 @@ Produtos próprios, trabalhos de clientes e entregas - com link onde está no ar
 | **[novixfin.cash](https://novixfin.cash/)** | Finanças pessoais: contas, cartões, recorrências, orçamentos e projeção de fluxo de caixa. | PHP · MySQL · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/novixfin) |
 | **[dyogo.site](https://dyogo.site/)** | Lista de presentes de aniversário interativa, com pagamento por Pix na própria página. | PHP · MySQL · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/aniversario-lista-presentes) |
 | **[toxico.online](https://toxico.online/)** | Simulador de conversas para conscientização: mostra na prática como toxicidade, abusos e manipulação aparecem no dia a dia, para ajudar a reconhecer os sinais e saber como reagir (PT/EN). | JavaScript | [🔓 repo](https://github.com/Encryptedx00x/simulador-toxico) |
+| **[verifiedpolitik.com](https://verifiedpolitik.com/)** | PolitiK: política explicada com dados e fontes, de forma imparcial. Artigos auditados antes de sair e publicados sozinhos no servidor, na data do calendário editorial. | HTML · CSS · Bash · Cron · Caddy | 🔒 privado |
 | **[hidrosaudecamboriu.com.br](https://hidrosaudecamboriu.com.br/)** | Site + sistema de gestão para clínica: pacientes, agendamento e rotinas administrativas. | HTML · CSS · JS · PHP · MySQL/MariaDB | 🔒 cliente |
 | **[setimadmsc.com.br](https://setimadmsc.com.br/)** | Site para organização regional de liderança juvenil (trabalho voluntário). | PHP · HTML · CSS · JavaScript | [🔓 repo](https://github.com/Encryptedx00x/setima-demolay) |
 | **[lunasgrafica.com](https://lunasgrafica.com/)** | Site para gráfica: catálogo de serviços, animações de scroll e orçamento. | HTML · Tailwind · JS · GSAP · Swiper | 🔒 cliente |
 | **[nidy.com.br](https://nidy.com.br/)** | Site institucional para empresa de segurança eletrônica e TI. | PHP · HTML · CSS · JavaScript | 🔒 cliente |
-| **[ostentei.com](https://ostentei.com/)** | Exemplo do modelo outbid: placar público de links pagos em que o maior lance fica em cima. Construído e publicado sozinho, processa pagamentos reais. | PHP 8.3 · MariaDB · Caddy · Mercado Pago/Pix | 🔒 privado |
-| **[paidland.com.br](https://paidland.com.br/)** | Simulador 3D de terrenos no navegador (cliente). | React · Three.js / React Three Fiber · Vite | 🔒 cliente |
+| **Camisetas FUN** | E-commerce de camisetas personalizadas: o cliente cria a estampa no próprio site e compra com pagamento integrado, conectado ao ERP. | WordPress · WooCommerce · Lumise · PHP | 🔒 cliente |
+| **CAC Tiago Ferro** | Site institucional do Centro de Avaliação de Condutores: instruções, contatos, localização e área de acesso para as autoescolas. | PHP · MySQL · Bootstrap · JavaScript | 🔒 cliente |
+| **[ostentei.com](https://ostentei.com/)** | Versão brasileira do [outbid.lol](https://outbid.lol): placar público de links pagos em que o maior lance fica em cima. Construído e publicado sozinho, processa pagamentos reais via Pix. | PHP 8.3 · MariaDB · Caddy · Mercado Pago/Pix | 🔒 privado |
+| **[paidland.com.br](https://paidland.com.br/)** | Plataforma gamificada de ativos digitais (cliente): site de apresentação com questionários do MVP e protótipo 3D de terrenos no navegador. | React · Three.js / React Three Fiber · Vite | 🔒 cliente |
 | **DeMolay Game** | Jogo educativo em Unity criado para a Olimpíada Nacional da Ordem DeMolay, instituição fraternal juvenil filantrópica. | C# · Unity | 🔒 privado |
 
 ### 🔓 Código aberto
